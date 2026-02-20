@@ -1,0 +1,23 @@
+{
+  "name": "Dzikir",
+  "short_name": "Dzikir",
+  "description": "Kumpulan dzikir setelah shalat fardhu sesuai sunnah, lengkap dengan tulisan Arab dan arti.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icons/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
