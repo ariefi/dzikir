@@ -1,15 +1,36 @@
 /* =========================
-   LOAD DATA DOA
+   LOAD DATA DZIKIR (MULTI MODE)
 ========================= */
 import { renderDoaList } from '../ui/renderer.js';
+import { loadMode } from './mode.js';
 
-fetch('./src/data/dzikir-setelah-shalat.json')
-  .then(res => res.json())
-  .then(data => {
-      data.sort((a, b) => a.urutan - b.urutan);
-      renderDoaList(data);
-      updateFocus();
+const menuItems = document.querySelectorAll('.menu-item');
+
+/* handle menu click */
+menuItems.forEach(btn => {
+  btn.addEventListener('click', () => {
+    menuItems.forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+
+    load(btn.dataset.mode);
   });
+});
+
+/* wrapper supaya logic lama tetap kepakai */
+async function load(mode) {
+  const data = await loadMode(mode);
+
+  data.sort((a, b) => a.urutan - b.urutan);
+
+  renderDoaList(data);
+
+  if (typeof updateFocus === "function") {
+    updateFocus();
+  }
+}
+
+/* default load */
+load('shalat');
 
 
 /* =========================

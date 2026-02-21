@@ -4,6 +4,8 @@
 export function renderDoaList(data) {
     const container = document.getElementById('doaContainer');
 
+    container.innerHTML = '';
+
     data.forEach(doa => {
         const card = document.createElement('div');
         card.className = 'doa';
