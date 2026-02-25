@@ -1,17 +1,20 @@
 # Dzikir
 
-Website statis berisi kumpulan dzikir setelah shalat fardhu sesuai sunnah, lengkap dengan tulisan Arab dan arti.  
-Dapat dibuka melalui browser maupun di-install sebagai aplikasi (Progressive Web App / PWA).
+Website statis berisi kumpulan dzikir harian sesuai sunnah, meliputi dzikir pagi, dzikir petang, dan dzikir setelah shalat fardhu.  
+Dilengkapi tulisan Arab dan arti agar mudah dibaca dan diamalkan setiap hari.
+
+Aplikasi dapat dibuka melalui browser maupun di-install sebagai Progressive Web App (PWA).
 
 ## Live
 https://ariefi.github.io/dzikir/
 
 ## Features
-- Dzikir setelah shalat fardhu sesuai sunnah
+- Dzikir pagi, petang, dan setelah shalat
 - Tulisan Arab + arti
 - Mode Arabic only
+- Navigasi mode dzikir
 - Installable (PWA)
 - Offline support
 
 ## Source
-Disusun berdasarkan kitab *Hisnul Muslim* karya Syaikh Sa’id bin ‘Ali bin Wahf al-Qahthani.
+Konten dzikir merujuk pada referensi dzikir sesuai sunnah dari Rumaysho.com.

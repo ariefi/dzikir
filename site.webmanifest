@@ -1,7 +1,7 @@
 {
-  "name": "Dzikir",
+  "name": "Dzikir Harian",
   "short_name": "Dzikir",
-  "description": "Kumpulan dzikir setelah shalat fardhu sesuai sunnah, lengkap dengan tulisan Arab dan arti.",
+  "description": "Dzikir harian sesuai sunnah: dzikir pagi, petang, dan setelah shalat fardhu, lengkap dengan tulisan Arab dan arti.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",

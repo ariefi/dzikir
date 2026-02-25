@@ -1,4 +1,4 @@
-const CACHE_NAME = "dzikir-cache-1771987239";
+const CACHE_NAME = "dzikir-cache-1772003422";
 
 const urlsToCache = [
   "./",
@@ -7,6 +7,8 @@ const urlsToCache = [
   "./css/style.css",
   "./src/app/main.js",
   "./src/ui/renderer.js",
+  "./src/data/dzikir-pagi.json",
+  "./src/data/dzikir-petang.json",
   "./src/data/dzikir-setelah-shalat.json",
   "./icons/favicon.png",
   "./fonts/arabic-font.ttf"
