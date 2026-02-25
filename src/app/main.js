@@ -167,3 +167,31 @@ if ('serviceWorker' in navigator) {
     }).catch(err => console.log('SW registration failed', err));
   });
 }
+
+
+// =========================
+// Scroll To Top Button
+// =========================
+
+const scrollTopBtn = document.getElementById("scrollTopBtn");
+
+if (scrollTopBtn) {
+
+  // show / hide button saat scroll
+  window.addEventListener("scroll", () => {
+    if (window.scrollY > 300) {
+      scrollTopBtn.classList.add("show");
+    } else {
+      scrollTopBtn.classList.remove("show");
+    }
+  });
+
+  // klik → smooth scroll ke atas
+  scrollTopBtn.addEventListener("click", () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    });
+  });
+
+}
