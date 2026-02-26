@@ -1,57 +1,57 @@
 [
   {
     "urutan": 1,
-    "judul": "Istighfar & Allahumma Antas Salaam (1x)",
+    "judul": "Istighfar & Allahumma Antas Salaam",
     "arabic": "أَسْتَغْفِرُ اللَّهَ، أَسْتَغْفِرُ اللَّهَ، أَسْتَغْفِرُ اللَّهَ، اللَّهُمَّ أَنْتَ السَّلَامُ، وَمِنْكَ السَّلَامُ، تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
-    "arti": "Aku memohon ampun kepada Allah (tiga kali). Ya Allah, Engkau Maha Sejahtera dan dari-Mu kesejahteraan. Maha Suci Engkau wahai Pemilik keagungan dan kemuliaan."
+    "arti": "Aku memohon ampun kepada Allah (tiga kali). Ya Allah, Engkau adalah As-Salaam (Maha Pemberi keselamatan), dan dari-Mu keselamatan. Maha Berkah Engkau, wahai Pemilik keagungan dan kemuliaan."
   },
   {
     "urutan": 2,
-    "judul": "Tahlil & Doa Setelahnya (1x)",
+    "judul": "Tahlil & Doa Penutup",
     "arabic": "لَا إِلَٰهَ إِلَّا اللَّهُ، وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ، اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
-    "arti": "Tidak ada Ilah selain Allah semata, tidak ada sekutu bagi-Nya. Milik-Nya kerajaan dan pujian, dan Dia Maha Kuasa atas segala sesuatu. Ya Allah, tidak ada yang dapat menghalangi apa yang Engkau beri, tidak ada yang dapat memberi apa yang Engkau tahan, dan tidak bermanfaat bagi orang yang memiliki kedudukan di sisi-Mu kedudukannya itu."
+    "arti": "Tidak ada Ilah yang berhak disembah selain Allah semata, tidak ada sekutu bagi-Nya. Milik-Nya kerajaan dan pujian, dan Dia Maha Kuasa atas segala sesuatu. Ya Allah, tidak ada yang dapat menghalangi apa yang Engkau beri dan tidak ada yang dapat memberi apa yang Engkau tahan. Tidaklah bermanfaat kekayaan atau kedudukan seseorang di hadapan-Mu."
   },
   {
     "urutan": 3,
-    "judul": "Tahlil Panjang (1x)",
-    "arabic": "لَا إِلَٰهَ إِلَّا اللَّهُ، وَلَا نَعْبُدُ إِلَّا إِيَّاهُ، لَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ، وَلَهُ الثَّنَاءُ الْحَسَنُ، لَا إِلَٰهَ إِلَّا اللَّهُ، مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ الْكَافِرُونَ",
-    "arti": "Tidak ada Ilah selain Allah dan kami tidak menyembah kecuali kepada-Nya. Milik-Nya nikmat, karunia, dan pujian yang baik. Tidak ada Ilah selain Allah dengan memurnikan agama hanya untuk-Nya walaupun orang-orang kafir membencinya."
+    "judul": "Tahlil Tambahan",
+    "arabic": "لَا إِلَٰهَ إِلَّا اللَّهُ، وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ، لَا إِلَٰهَ إِلَّا اللَّهُ، وَلَا نَعْبُدُ إِلَّا إِيَّاهُ، لَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ، وَلَهُ الثَّنَاءُ الْحَسَنُ، لَا إِلَٰهَ إِلَّا اللَّهُ، مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ الْكَافِرُونَ",
+    "arti": "Tidak ada Ilah yang berhak disembah selain Allah semata, tidak ada sekutu bagi-Nya. Milik-Nya kerajaan dan pujian, dan Dia Maha Kuasa atas segala sesuatu. Tidak ada daya dan kekuatan kecuali dengan pertolongan Allah. Tidak ada Ilah selain Allah dan kami tidak menyembah kecuali kepada-Nya. Milik-Nya nikmat, karunia, dan pujian yang baik. Tidak ada Ilah selain Allah dengan memurnikan agama hanya untuk-Nya walaupun orang-orang kafir membencinya."
   },
   {
     "urutan": 4,
-    "judul": "Tasbih, Tahmid, Takbir (33x)",
-    "arabic": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَاللَّهُ أَكْبَرُ (٣٣×)",
-    "arti": "Mahasuci Allah, segala puji bagi Allah, dan Allah Mahabesar. (33x)"
+    "judul": "Tasbih, Tahmid & Takbir (33x) + Tahlil",
+    "arabic": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَاللَّهُ أَكْبَرُ (٣٣×)، لَا إِلَٰهَ إِلَّا اللَّهُ، وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "arti": "Mahasuci Allah, segala puji bagi Allah, dan Allah Mahabesar masing-masing tiga puluh tiga kali, kemudian ditutup dengan: Tidak ada Ilah selain Allah semata, tidak ada sekutu bagi-Nya. Milik-Nya kerajaan dan pujian, dan Dia Maha Kuasa atas segala sesuatu."
   },
   {
     "urutan": 5,
-    "judul": "Tahlil Penutup (1x)",
-    "arabic": "لَا إِلَٰهَ إِلَّا اللَّهُ، وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
-    "arti": "Tidak ada Ilah selain Allah semata, tidak ada sekutu bagi-Nya. Milik-Nya kerajaan dan pujian, dan Dia Maha Kuasa atas segala sesuatu."
-  },
-  {
-    "urutan": 6,
-    "judul": "Ayat Kursi (1x)",
+    "judul": "Ayat Kursi",
     "arabic": "اللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ الْحَيُّ الْقَيُّوْمُ ۚ لَا تَأْخُذُهٗ سِنَةٌ وَّلَا نَوْمٌ ۚ لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِ ۗ مَنْ ذَا الَّذِىْ يَشْفَعُ عِنْدَهٗۤ اِلَّا بِاِذْنِهٖ ۚ يَعْلَمُ مَا بَيْنَ اَيْدِيْهِمْ وَمَا خَلْفَهُمْ ۚ وَلَا يُحِيْطُوْنَ بِشَىْءٍ مِّنْ عِلْمِهٖۤ اِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمٰوٰتِ وَالْاَرْضَ ۚ وَلَا يَـُٔوْدُهٗ حِفْظُهُمَا ۚ وَهُوَ الْعَلِىُّ الْعَظِيْمُ",
     "arti": "Allah, tidak ada Ilah yang berhak diibadahi selain Dia Yang Mahahidup dan terus-menerus mengurus makhluk-Nya; tidak mengantuk dan tidak tidur. Milik-Nya apa yang di langit dan di bumi. Tidak ada yang dapat memberi syafaat di sisi-Nya tanpa izin-Nya. Dia mengetahui apa yang di hadapan mereka dan di belakang mereka, dan mereka tidak mengetahui sesuatu pun dari ilmu-Nya melainkan apa yang Dia kehendaki. Kursi-Nya meliputi langit dan bumi, dan Dia tidak merasa berat memelihara keduanya. Dia Maha Tinggi lagi Maha Agung."
   },
   {
-    "urutan": 7,
-    "judul": "Al-Ikhlas (1x)",
+    "urutan": 6,
+    "judul": "Al-Ikhlas",
     "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ، اللَّهُ الصَّمَدُ، لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
     "arti": "Katakanlah: Dialah Allah Yang Maha Esa. Allah tempat bergantung segala sesuatu. Dia tidak beranak dan tidak pula diperanakkan, dan tidak ada sesuatu pun yang setara dengan-Nya."
   },
   {
-    "urutan": 8,
-    "judul": "Al-Falaq (1x)",
-    "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ، مِن شَرِّ مَا خَلَقَ، وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ، وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ، وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+    "urutan": 7,
+    "judul": "Al-Falaq",
+    "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ، مِنْ شَرِّ مَا خَلَقَ، وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ، وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ، وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
     "arti": "Katakanlah: Aku berlindung kepada Rabb yang menguasai subuh dari kejahatan makhluk-Nya, dari kejahatan malam apabila telah gelap gulita, dari kejahatan wanita-wanita penyihir yang meniup pada buhul-buhul, dan dari kejahatan orang yang dengki apabila ia dengki."
   },
   {
-    "urutan": 9,
-    "judul": "An-Naas (1x)",
-    "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ، مَلِكِ النَّاسِ، إِلَٰهِ النَّاسِ، مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ، الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ، مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "urutan": 8,
+    "judul": "An-Naas",
+    "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ، مَلِكِ النَّاسِ، إِلَٰهِ النَّاسِ، مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ، الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ، مِنَ الْجِنَّةِ وَالنَّاسِ",
     "arti": "Katakanlah: Aku berlindung kepada Rabb manusia, Raja manusia, sembahan manusia, dari kejahatan bisikan setan yang bersembunyi, yang membisikkan ke dalam dada manusia, dari golongan jin dan manusia."
+  },
+  {
+    "urutan": 9,
+    "judul": "Tahlil (Setelah Subuh & Maghrib) (10x)",
+    "arabic": "لَا إِلَٰهَ إِلَّا اللَّهُ، وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "arti": "Tidak ada Ilah yang berhak disembah selain Allah semata, tidak ada sekutu bagi-Nya. Milik-Nya kerajaan dan pujian. Dia menghidupkan dan mematikan, dan Dia Maha Kuasa atas segala sesuatu."
   },
   {
     "urutan": 10,
