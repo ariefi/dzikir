@@ -155,11 +155,14 @@ body.dark .doa.focus {
 }
 
 .arabic {
-    font-family: 'ArabicFont', serif;
+    font-family: 'ArabicFont', 'Amiri', serif;
     direction: rtl;
     text-align: right;
     font-size: clamp(22px, 3vw, 32px);
-    line-height: 1.9;
+    line-height: 2.35;
+    letter-spacing: 0.015em;
+    font-feature-settings: "liga" 1, "calt" 1;
+    text-rendering: optimizeLegibility;
     margin-bottom: 15px;
 }
 
@@ -211,7 +214,8 @@ body.dark .toggle-btn {
 
     .arabic {
         font-size: clamp(30px, 7.5vw, 36px);
-        line-height: 2.2;
+        line-height: 2.15;
+        letter-spacing: 0.01em;
     }
 
     .arti {
