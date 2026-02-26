@@ -1,4 +1,4 @@
-const CACHE_NAME = "dzikir-cache-1772089231";
+const CACHE_NAME = "dzikir-cache-1772091402";
 
 const urlsToCache = [
   "./",
