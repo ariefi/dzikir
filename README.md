@@ -17,4 +17,4 @@ https://ariefi.github.io/dzikir/
 - Offline support
 
 ## Source
-Konten dzikir merujuk pada referensi dzikir sesuai sunnah dari Rumaysho.com.
+Konten dzikir merujuk pada referensi dzikir sesuai sunnah dari Yufid.tv.
