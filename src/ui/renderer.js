@@ -6,18 +6,6 @@ export function renderDoaList(data) {
 
     container.innerHTML = '';
 
-    // EMPTY STATE
-    if (!data || data.length === 0) {
-        container.innerHTML = `
-            <div class="empty-state">
-                <div class="empty-icon">📖</div>
-                <h2>Konten belum tersedia</h2>
-                <p>InsyaAllah dzikir akan segera ditambahkan.</p>
-            </div>
-        `;
-        return;
-    }
-
     data.forEach(doa => {
         const card = document.createElement('div');
         card.className = 'doa';

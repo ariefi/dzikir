@@ -18,6 +18,10 @@ menuItems.forEach(btn => {
 
 /* wrapper supaya logic lama tetap kepakai */
 async function load(mode) {
+  // set body mode class
+  document.body.classList.remove('mode-shalat','mode-pagi','mode-petang');
+  document.body.classList.add(`mode-${mode}`);
+
   const data = await loadMode(mode);
 
   data.sort((a, b) => a.urutan - b.urutan);

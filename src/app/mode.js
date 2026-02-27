@@ -5,9 +5,9 @@ const sources = {
 };
 
 const subtitles = {
-  shalat: 'Dzikir Setelah Shalat Fardhu',
-  pagi: 'Dzikir Pagi',
-  petang: 'Dzikir Petang'
+  shalat: '🕌 Dzikir Setelah Shalat',
+  pagi: '🌅 Dzikir Pagi',
+  petang: '🌙 Dzikir Petang'
 };
 
 export async function loadMode(mode) {
